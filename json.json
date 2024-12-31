@@ -1,0 +1,50 @@
+{
+  "data": {
+    "shop": {
+      "id": "21c54b06-6de7-4a1d-8916-6bc97f0dd554",
+      "name": "Gadget Galaxy",
+      "location": "789 Tech Park, Innovator's Lane",
+      "description": "Latest and greatest gadgets in one place.",
+      "estDeliveryTime": "25-35 mins",
+      "businessHour": "8 AM - 10 PM",
+      "categories": [
+        {
+          "id": "7395de4a-78ba-460b-8e81-e7420e445054",
+          "title": "category 1",
+          "products": [
+            {
+              "id": "0a31220a-47bc-4b2c-8ed9-fbeb2c021a2e",
+              "name": "iPhone 14 Pro Max"
+            },
+            {
+              "id": "85e838e7-f946-41b1-a91f-3c3a3a061d8c",
+              "name": "Samsung Galaxy S23 Ultra"
+            },
+            {
+              "id": "334d30d7-b567-4363-bf32-ce160a63c05e",
+              "name": "MacBook Air M2"
+            }
+          ]
+        },
+        {
+          "id": "dd586a65-5449-428c-9313-f6f23a83c20e",
+          "title": "category 2",
+          "products": [
+            {
+              "id": "0a31220a-47bc-4b2c-8ed9-fbeb2c021a2e",
+              "name": "iPhone 14 Pro Max"
+            },
+            {
+              "id": "85e838e7-f946-41b1-a91f-3c3a3a061d8c",
+              "name": "Samsung Galaxy S23 Ultra"
+            },
+            {
+              "id": "334d30d7-b567-4363-bf32-ce160a63c05e",
+              "name": "MacBook Air M2"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
